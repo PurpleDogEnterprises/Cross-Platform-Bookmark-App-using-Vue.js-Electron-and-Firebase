@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/PurpleDogEnterprises/Cross-Platform-Bookmark-App-using-Vue.js-Electron-and-Firebase/issues"
   },
-  "homepage": "https://github.com/PurpleDogEnterprises/Cross-Platform-Bookmark-App-using-Vue.js-Electron-and-Firebase#readme"
+  "homepage": "https://github.com/PurpleDogEnterprises/Cross-Platform-Bookmark-App-using-Vue.js-Electron-and-Firebase#readme",
+  "dependencies": {
+    "firebase": "^3.7.3",
+    "jquery": "^3.2.1",
+    "vue": "^2.2.6"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
 }
