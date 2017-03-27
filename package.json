@@ -1,0 +1,19 @@
+{
+  "name": "bookmark-app",
+  "version": "1.0.0",
+  "description": "A cross-platform bookmark app using Vue.js, Electron, and Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleDogEnterprises/Cross-Platform-Bookmark-App-using-Vue.js-Electron-and-Firebase.git"
+  },
+  "author": "Sean Guthrie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurpleDogEnterprises/Cross-Platform-Bookmark-App-using-Vue.js-Electron-and-Firebase/issues"
+  },
+  "homepage": "https://github.com/PurpleDogEnterprises/Cross-Platform-Bookmark-App-using-Vue.js-Electron-and-Firebase#readme"
+}
